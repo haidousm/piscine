@@ -1,2 +1,2 @@
 # piscine
-a thread pool implemented using Rust
+a thread pool library implemented using Rust
